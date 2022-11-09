@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Eu sou Lucca Negrini</h1>
+<h1 align="center">Hi 👋!! Me chamo Lucca Negrini</h1>
 <h3 align="center">!! Apaixonado por Data Analytics S2 !!</h3>
 
 - 🌱 I’m currently learning **Data Science, Machine learning e Swift**
