@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Olá Eu sou o Lucca Negrini ✨
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucca-negrini-1073a41b7/)
